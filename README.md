@@ -2,7 +2,7 @@
 
 Esse modelo fornece uma configuração mínima para fazer o React funcionar no Vite com HMR e algumas regras ESLint.
 
-Atualmente, dois plugins oficiais estão disponíveis:
+Atualmente, dois plugins oficiais estão disponíveis:t
 
     @vitejs/plugin-react usa Babel para atualização rápida
     @vitejs/plugin-react-swc usa SWC para atualização rápida
