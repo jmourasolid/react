@@ -1,6 +1,6 @@
 # React + TypeScript + Vite
 
-Tseu modelo fornece uma configuração mínima para fazer o React funcionar no Vite com HMR e algumas regras ESLint.
+Esse modelo fornece uma configuração mínima para fazer o React funcionar no Vite com HMR e algumas regras ESLint.
 
 Atualmente, dois plugins oficiais estão disponíveis:
 
